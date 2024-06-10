@@ -2,7 +2,10 @@
 
 ## 功能描述
 
-使用`python`实现植物大战僵尸的`自娱自乐`版本。
+使用【python】实现植物大战僵尸的`自娱自乐`版本。
+作者新手入门时的学习视频：
+https://www.bilibili.com/video/BV1be411x7u9/?spm_id_from=333.999.0.0&vd_source=209569c05267fb94b8fedbb608f3272c
+
 
 
 
@@ -10,7 +13,7 @@
 
 ### 自娱自乐
 
-采用`python`的`pygame`库，搞了一个半成品，目的当然是让自己能快速理解python开发游戏的思路，大量采用了百度+kimi的问答方式进行思路扩展。 
+采用【python】的【pygame】库，搞了一个半成品，目的当然是让自己能快速理解python开发游戏的思路，大量采用了百度+kimi的问答方式进行思路扩展。 
 ![image](https://github.com/lizhan1995/pvz/assets/28769051/6c67461f-e197-44b6-abec-4632783ca0eb)
 
 自定义的类体现封装、继承、多态的`OOP`思想，现在只做了三个部分：
