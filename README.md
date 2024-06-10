@@ -25,7 +25,7 @@ https://www.bilibili.com/video/BV1be411x7u9/?spm_id_from=333.999.0.0&vd_source=2
 
 1. 植物基类Plant，只实现了向日葵`SunFlower`、豌豆射手`Peashooter`、坚果`WallNut`。
 2. 僵尸基类Zombie，只实现了普通僵尸`Zombie`。
-3. 其他基类Other，只实现了区域`Zone`、阳光`sun`、阳光`sun`、卡槽`card_slot`。
+3. 其他基类Other，只实现了区域`Zone`、阳光`sun`、卡槽`card_slot`。
 
 
 
