@@ -2,7 +2,12 @@
 
 ## 功能描述
 
-使用【python】实现植物大战僵尸的`自娱自乐`版本。
+使用【python】实现植物大战僵尸的自娱自乐版本。
+
+
+截至2024-06-10，代码行数在550行左右
+
+
 作者新手入门时的学习视频：
 https://www.bilibili.com/video/BV1be411x7u9/?spm_id_from=333.999.0.0&vd_source=209569c05267fb94b8fedbb608f3272c
 
@@ -18,11 +23,10 @@ https://www.bilibili.com/video/BV1be411x7u9/?spm_id_from=333.999.0.0&vd_source=2
 
 自定义的类体现封装、继承、多态的`OOP`思想，现在只做了三个部分：
 
-1. 植物基类`Plant`，只实现了向日葵`SunFlower`、豌豆射手`Peashooter`、坚果`WallNut`。
-2. 僵尸基类`Zombie`，只实现了普通僵尸`Zombie`。
-3. 其他基类`Other`，只实现了区域`Zone`、阳光`sun`、阳光`sun`、卡槽`card_slot`。
+1. 植物基类Plant，只实现了向日葵`SunFlower`、豌豆射手`Peashooter`、坚果`WallNut`。
+2. 僵尸基类Zombie，只实现了普通僵尸`Zombie`。
+3. 其他基类Other，只实现了区域`Zone`、阳光`sun`、阳光`sun`、卡槽`card_slot`。
 
-截至2024-06-10，代码行数在550行左右
 
 
 ## 操作运行
@@ -41,7 +45,7 @@ https://www.bilibili.com/video/BV1be411x7u9/?spm_id_from=333.999.0.0&vd_source=2
 
 ## 问题和解决方案
 
-1. 有关`pygame`库的中文资料稀缺且泛泛而谈，如何学习？
+1. 有关pygame库的中文资料稀缺且泛泛而谈，如何学习？
 
    百度是你学习的第一位老师，ai是你学会如何找资料的第二位老师！
 
